@@ -1,0 +1,48 @@
+body {
+  height: 100%;
+  transition: all 0.5s ease-in-out;
+  background: black;
+}
+
+.note-bar {
+  width: 100vw;
+  height: 2rem;
+  background: black;
+}
+
+.note--c {
+  background: #2a6ebd;
+}
+.note--dflat {
+  background: #370CB1;
+}
+.note--d {
+  background: #a24123;
+}
+.note--eflat {
+  background: #FFB900;
+}
+.note--e {
+  background: #fff139;
+}
+.note--f {
+  background: #FF9339;
+}
+.note--gflat {
+  background: #7F00ED;
+}
+.note--g {
+  background: #417505;
+}
+.note--aflat {
+  background: #960819;
+}
+.note--a {
+  background: #aa1919;
+}
+.note--bflat {
+  background: #1C3500;
+}
+.note--b {
+  background: #80d029;
+}
